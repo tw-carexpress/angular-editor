@@ -28,6 +28,6 @@
     "rich text editor"
   ],
   "publishConfig": {
-    "registry": "http://192.168.1.76:87/repository/npm-private/"
+    "registry": "https://gitlab.teamcl.de/api/v4/projects/217/packages/npm/"
   }
 }
